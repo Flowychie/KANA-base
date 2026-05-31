@@ -116,7 +116,7 @@ gE = engine.predict_gE(state.params, model.apply, sigmas, scalars, mask, T, x)
 ## Repository Structure
 
 ```
-kana-cinn/
+KANA-base/
 ├── README.md
 ├── requirements.txt
 ├── kana/

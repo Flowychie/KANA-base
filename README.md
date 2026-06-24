@@ -156,10 +156,11 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{oktaviani2026kana,
-  title={KANA: A Hard-Constrained Chemical-Informed Neural Network
-         for Multi-Component Excess Gibbs Energy Prediction},
-  author={Oktaviani, Patricia Yolanda},
-  journal={Computer Physics Communications},
+  title={KANA AI: A Chemical-Informed Neural Network with
+        Hard Thermodynamic Constraints for Multicomponent
+        Activity Coefficient Prediction},
+  author={Oktaviani, Patricia Yolanda}, {Wyldanta, Yehosyua Widiatmo},
+  journal={Computer and Chemical Engineering},
   year={2026},
   publisher={Elsevier}
 }
